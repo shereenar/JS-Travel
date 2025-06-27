@@ -103,12 +103,12 @@
 
 footer {
     background-color: rgb(3, 53, 68);
-    height: 150px;
+    height: 200px;
 }
 
 .footer-summery{
     color: white;
-
+    font-size: 6px;
 }
 
 .Team-lead {
@@ -215,5 +215,9 @@ span {
     display: flex;
     padding: 20px;
     font-size: 28px;
-    font-style: italic;
+    font-family: cursive;
  }
+.nav2-number{
+    list-style: none;
+    font-size: 6px;
+}
