@@ -1,0 +1,219 @@
+.bg-header {
+    background-color: black;
+    color: white;
+    height: 64px;
+}
+
+
+.subpage-item {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.Sub-page-list a {
+    text-decoration: none;
+    color: white;
+}
+
+.Sub-page-list {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin-left: 20px;
+}
+
+.header-one {
+    color: orangered;
+    text-align: center;
+}
+
+.Section-3 {
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card5-footer{
+    font-style: normal;
+}
+.country-name {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+}
+
+.country-header {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin-left: 80px;
+    text-align: center;
+}
+
+.heading-para {
+    color: orangered;
+    text-align: center;
+}
+
+.first-para {
+    text-align: center;
+    padding-left:10%;
+    padding-right:10%;
+}
+
+.team-img {
+    padding: 20px;
+}
+
+.count-list {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.count {
+    color: orangered;
+    display: flex;
+    text-align: center;
+    padding: 40px;
+    font-size: 24px;
+    background-color: rgb(30, 30, 59);
+}
+
+.sct6-header {
+    color: orangered;
+    text-align: center;
+}
+
+.sct8-header {
+    color: orangered;
+    text-align: center;
+}
+
+.button {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(76, 188, 240);
+}
+
+.section-9 {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(3, 53, 68);
+    height: 150px;
+}
+
+.footer-summery{
+    color: white;
+
+}
+
+.Team-lead {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+span {
+    display: inline-block;
+    width: 100px;
+    height: 150px;
+    margin: 6px;
+    background-color: #f9f9f9;
+}
+
+.card1-title {
+    text-align: center;
+}
+
+.card2-title {
+    text-align: center;
+
+}
+
+.card3-title {
+    text-align: center;
+}
+
+.card-para1-a-tag {
+    text-decoration: none;
+}
+
+/* JP */
+.js-tours {
+    color: rgb(235, 155, 7);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: rgb(235, 155, 7);
+}
+
+.img-main {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 340px;
+}
+.contact-header{
+    color: orangered;
+    text-align: center;
+}
+.card1-type{
+    color: rgb(81, 81, 250);
+}
+.card1-type2{
+    color: rgb(75, 72, 72);
+}
+.card1-para-a-tag{
+    text-decoration: none;
+}
+.card3-type{
+    color: rgb(49, 49, 199);
+}
+.card3-type2{
+    color: rgb(75, 72, 72);
+}
+.card3-para-a-tag{
+    text-decoration: none;
+}
+.card2-type{
+    color: rgb(81, 81, 250);
+}
+.card2-type2{
+   color: rgb(75, 72, 72); 
+}
+.border-outset {
+    border: 3px outset #888; 
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+ } 
+ .number-list{
+    background-color: black;
+    height: 100px;
+ }
+ .number-nav{
+    color: orangered;
+ }
+ .nav-num-item{
+    list-style: none;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    font-size: 28px;
+    font-style: italic;
+ }
